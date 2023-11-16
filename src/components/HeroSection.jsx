@@ -7,7 +7,6 @@ const HeroSection = () => {
     <section className="hero">
       <h1>Welcome to Certainti.ai</h1>
       <p>Specialized in SR&ED claims  </p>
-      <p>Highest Yield you can get </p>
       {/* Add additional content as needed */}
     </section>
   );

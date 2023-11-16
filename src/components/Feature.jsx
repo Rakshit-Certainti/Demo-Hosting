@@ -8,11 +8,11 @@ const Features = () => {
     <section className="features">
       <h2>Our Features</h2>
       <div className="feature">
-        <h3>1. Intelligent Data Analysis</h3>
+        <h3>Intelligent Data Analysis</h3>
         <p>Utilize advanced AI algorithms to analyze and derive insights from large datasets, enabling informed decision-making.</p>
       </div>
       <div className="feature">
-        <h3>2. Predictive Analytics</h3>
+        <h3>Predictive Analytics</h3>
         <p>Harness the power of our personalized AI Model.</p>
       </div>
     
